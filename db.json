@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Workout",
+      "day": "06/12/2022, Monday, 1:00pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Shopping",
+      "day": "05/04/2022, Tuesday, 4:00pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Coding",
+      "day": "03/09/2022, Wednesday, 12:00pm",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
